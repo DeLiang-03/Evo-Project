@@ -1,0 +1,6 @@
+{
+  "name": "ROBO-EVO 2050 | Evolusi & Dampak Robotika Masa Depan",
+  "description": "Platform interaktif Tugas Akhir Sistem Informasi: eksplorasi evolusi robotika 1950-2060, CyberLab 3D humanoid inspector, Kalkulator Dampak Robotika 2040, dan instrumen riset SUS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
